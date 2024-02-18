@@ -1,0 +1,3 @@
+create a project in intellij 
+add it to github
+commit and push it with bash too.
